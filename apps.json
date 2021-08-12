@@ -833,6 +833,13 @@
         "state": "notworking",
         "url": "https://github.com/YunoHost-Apps/dynette_ynh"
     },
+    "elabftw": {
+        "branch": "master",
+        "category": "office",
+        "revision": "HEAD",
+        "state": "inprogress",
+        "url": "https://github.com/YunoHost-Apps/eLabFTW_ynh"
+    },
     "element": {
         "branch": "master",
         "category": "communication",
