@@ -1853,6 +1853,10 @@
         ],
         "url": "https://github.com/YunoHost-Apps/miniflux_ynh"
     },
+    "minio": {
+        "url": "https://github.com/yunohost-Apps/minio_ynh",
+        "state": "inprogress"
+    },
     "misskey": {
         "category": "social_media",
         "level": 0,
@@ -2233,6 +2237,10 @@
         "level": 7,
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/osticket_ynh"
+    },
+    "outline": {
+        "url": "https://github.com/yunohost-Apps/outline_ynh/",
+        "state": "inprogress"
     },
     "owncast": {
         "category": "multimedia",
